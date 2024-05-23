@@ -6,7 +6,7 @@
 @media only screen and (min-width: 0rem) {
   #hero-1203 {
     /* 150px - 350px */
-    padding: clamp(9rem, 25.95vw, 21.875rem) 1rem;
+    padding: clamp(14rem, 30.95vw, 26.875rem) 1rem;
     padding-bottom: 4rem;
     position: relative;
     z-index: 1;
@@ -19,7 +19,8 @@
     width: 100%;
     /* 100px - 200px */
     height: clamp(16.25rem, 39vw, 22.5rem);
-    background: var(--secondary);
+    background-image: url("/assets/images/pexels-pixmike-413195.jpg");
+    background-size: contain;
     opacity: 1;
     position: absolute;
     display: block;

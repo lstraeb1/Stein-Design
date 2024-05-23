@@ -464,8 +464,8 @@
     opacity: 1;
   }
 }
-/* Desktop Parallax Effect - 1300px */
-@media only screen and (min-width: 81.25rem) {
+/* Desktop Parallax Effect - 1024px */
+@media only screen and (min-width: 64rem) {
   #why-choose-440 {
     background: url("/assets/images/pexels-pixabay-259588.jpg");
     background-size: cover;
